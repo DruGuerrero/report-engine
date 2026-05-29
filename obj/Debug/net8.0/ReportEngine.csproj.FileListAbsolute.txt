@@ -1,0 +1,14 @@
+C:\Dev\dotnet projects\ReportEngine\bin\Debug\net8.0\ReportEngine.exe
+C:\Dev\dotnet projects\ReportEngine\bin\Debug\net8.0\ReportEngine.deps.json
+C:\Dev\dotnet projects\ReportEngine\bin\Debug\net8.0\ReportEngine.runtimeconfig.json
+C:\Dev\dotnet projects\ReportEngine\bin\Debug\net8.0\ReportEngine.dll
+C:\Dev\dotnet projects\ReportEngine\bin\Debug\net8.0\ReportEngine.pdb
+C:\Dev\dotnet projects\ReportEngine\obj\Debug\net8.0\ReportEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\dotnet projects\ReportEngine\obj\Debug\net8.0\ReportEngine.AssemblyInfoInputs.cache
+C:\Dev\dotnet projects\ReportEngine\obj\Debug\net8.0\ReportEngine.AssemblyInfo.cs
+C:\Dev\dotnet projects\ReportEngine\obj\Debug\net8.0\ReportEngine.csproj.CoreCompileInputs.cache
+C:\Dev\dotnet projects\ReportEngine\obj\Debug\net8.0\ReportEngine.dll
+C:\Dev\dotnet projects\ReportEngine\obj\Debug\net8.0\refint\ReportEngine.dll
+C:\Dev\dotnet projects\ReportEngine\obj\Debug\net8.0\ReportEngine.pdb
+C:\Dev\dotnet projects\ReportEngine\obj\Debug\net8.0\ReportEngine.genruntimeconfig.cache
+C:\Dev\dotnet projects\ReportEngine\obj\Debug\net8.0\ref\ReportEngine.dll
