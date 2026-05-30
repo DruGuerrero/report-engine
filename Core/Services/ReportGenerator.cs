@@ -12,13 +12,13 @@ public class ReportGenerator
         IReportDelivery delivery, 
         string format)
     {
-        // 1. Generar / Procesar por rol
+        // generar, por rol
         string rawReport = processor.ProcessData(data);
 
-        // 2. Transformar (Decoradores aplicados)
+        // transformar, decorar
         string finalReport = transformer.Transform(rawReport);
 
-        // 3. Entregar
+        // 3. enviar por canales
         delivery.Deliver(finalReport, format);
     }
 }
